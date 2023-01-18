@@ -32,9 +32,9 @@ https://waveportal-starter-project.dappsar.repl.co
 - Install [NodeJS](https://nodejs.org/en/). Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
 - Register an account and Ethereum Test node in [quicknode](https://www.quicknode.com/)
 - Set un .env file in root folder with this content:
-    STAGING_QUICKNODE_KEY=(your quicknode url) 
-    PROD_QUICKNODE_KEY=(nothing)
-    PRIVATE_KEY=(your metamask' acoount private key)
+    * STAGING_QUICKNODE_KEY=(your quicknode url) 
+    * PROD_QUICKNODE_KEY=(nothing)
+    * PRIVATE_KEY=(your metamask' acoount private key)
 
 
 ## Setting Up
